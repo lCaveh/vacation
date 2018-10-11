@@ -1,0 +1,27 @@
+.container {
+display: contents;
+}
+
+p{
+  color: red;
+}
+
+body{
+  background-image: url("../img/back.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h2{
+  color: green;
+}
+img {
+  width:100%;
+  opacity:1;
+}
+.panel {
+  opacity: 0.8;
+}
+.jumbotron {
+  opacity: 0.8;
+}
